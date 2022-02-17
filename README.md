@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @surpriselizard
+- 👋 Hi, I’m Jason Rempel
 
 - I am currently studying Computer Science at University. I am interested in learning lots, be it through working on a project, learning in a class, or in a online course.
 - I am most proficient in C#, Java, and C++.
